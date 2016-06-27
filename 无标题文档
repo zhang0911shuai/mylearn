@@ -1,0 +1,33 @@
+
+基础篇：
+	基本数据类型
+		涉及内容包括，变量的声明，初始化，赋值，基本数据类型，基本数据类型的函数/方法，数据类型转换，
+	基本语法
+		注释，if,while,do-while,for,foreach,switch,break,continue,goto,return等基本语句
+	异常及错误
+		try{}catch(){}finally{}语句及Exception throw 
+	函数/方法
+		函数的定义，使用，参数，不定量参数，函数作用域，块及作用域
+	类/对象
+		类定义，接口，抽象类,Mixin，继承，
+		public/protected/private static 
+	模块/包
+		命名空间，自动加载，import,package,require,classpath,path
+	多线程/异步
+		多线程/异步
+
+功能篇：
+	IO操作		
+		字符串IO,二进制IO，
+	OS操作
+		目录操作，文件。。。。
+	sys操作
+				
+	网络：服务器，客户端
+	GUI
+	数据库
+	正则表达式	
+其他：
+	单元测试
+	
+
